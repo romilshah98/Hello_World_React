@@ -23,7 +23,7 @@ class Home extends React.Component {
                 " ",
                 React.createElement(
                     "a",
-                    { href: "https://github.com/romilshah98/Assignment_1.git" },
+                    { href: "https://github.com/romilshah98/Assignment_1.git", target: "_blank" },
                     "VIEW MY GITHUB REPO"
                 )
             )
